@@ -1,3 +1,22 @@
+# Projeto Github Actions
+
+Esse projeto tem o objetivo de ensinar Continous Integration para a turma de Engenharia de Software II da Unijuazeiro.
+
+
+
+# Scripts Disponíveis
+
+Na raiz do projeto você poderá executar:
+
+### 'npm start'
+Para executar a aplição em modo de desenvolvimento.
+Acesse [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
+
+A página deverá recarregar a cada edição.\
+Você também poderá ver erros de 'lint' no console.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
